@@ -16,6 +16,14 @@
 .btn-secondary.btn_gray {
     border-radius: 40%;
 }
+
+.blue {
+    color: blue;
+}
+
+.gray {
+    color: gray;
+}
 /* FINE COMMON */
 
 /* HEADER */
@@ -72,6 +80,11 @@ img {
     height: 100%;
     margin-bottom: 30px;
     border-radius: 10px;
+}
+
+.container_playstation {
+    width: 100%;
+    height: 150px;
 }
 /* FINE JUMBOTRON */
 /* MAIN */
