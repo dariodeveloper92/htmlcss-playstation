@@ -3,3 +3,69 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* COMMON */
+#my_font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.white {
+    color: white;
+}
+/* FINE COMMON */
+
+/* HEADER */
+header {
+    width: 100%;
+    height: 100%;
+}
+
+.container_header_top {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+.container_header_bottom {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+}
+/* FINE HEADER */
+/* JUMBOTRON */
+#jumbotron {
+    width: 100%;
+    height: 300px;
+}
+/* FINE JUMBOTRON */
+/* MAIN */
+main {
+    width: 100%;
+    height: 100vh;
+}
+/* FINE MAIN */
+/* FOOTER */
+footer {
+    width: 100%;
+    height: 400px;
+}
+/* FINE FOOTER */
+
+
+/* DEBUG  */
+.debug_header {
+    background-color: black;
+}
+
+.debug_jumbotron {
+    background-color: lightblue;
+}
+
+.debug_main {
+    background-color: lightgreen;
+}
+
+.debug_footer {
+    background-color: lightgrey;
+}
+/* FINE DEBUG */
