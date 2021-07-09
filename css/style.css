@@ -130,9 +130,9 @@ main {
     height: 100vh;
 }
 
-#container_main {
+#container_main_top_first {
     width: 100%;
-    min-height: 700px;
+    min-height: 100%;
     background-size: cover;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
@@ -142,6 +142,28 @@ main {
     height: 150px;
 }
 
+.container_main_top_second {
+    width: 100%;
+    height: 100%;
+    background-color: darkgray;
+}
+
+.img_game {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+.container_main_top_third {
+    width: 100%;
+    height: 150px;
+}
+
+.container_main_top_fourth {
+    width: 100%;
+    height: 100px;
+}
 /* FINE MAIN */
 /* FOOTER */
 footer {
