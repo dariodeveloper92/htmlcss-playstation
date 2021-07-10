@@ -33,6 +33,10 @@
     border: none;
 }
 
+.btn.btn_white.now {
+    color: black;
+}
+
 .blue {
     color: blue;
 }
@@ -137,6 +141,7 @@ main {
     height: 100vh;
 }
 
+/* main top */
 #container_main_top_first {
     width: 100%;
     min-height: 100%;
@@ -151,7 +156,6 @@ main {
 
 .container_main_top_second {
     width: 100%;
-    height: 100%;
     background-color: darkgray;
 }
 
@@ -171,7 +175,8 @@ main {
     width: 100%;
     height: 100%;
 }
-
+/* fine main top */
+/* main center */
 #container_main_center_first {
     width: 100%;
     background-color: lightgray;
@@ -186,6 +191,47 @@ main {
     width: 100%;
     height: 100%;
 }
+
+.container_main_center_second {
+    width: 100%;
+    height: 150px;
+}
+
+.container_main_center_third {
+    width: 100%;
+}
+
+.img_sconti img {
+    border-radius: 0;
+    width: 100%;
+}
+/* fine main center */
+/* main bottom */
+#container_main_bottom_first {
+    width: 100%;
+    background-color: darkblue;
+}
+
+.img_avengers {
+    width: 100%;
+    height: 100%;
+}
+
+.container_main_bottom_second {
+    width: 100%;
+    height: 150px;
+}
+
+.container_main_bottom_third {
+    width: 100%;
+}
+
+.img_social img {
+    border-radius: 0;
+    width: 100%;
+}
+}
+/* fine main bottom */
 /* FINE MAIN */
 /* FOOTER */
 footer {
