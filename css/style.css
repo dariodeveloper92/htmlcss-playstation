@@ -93,7 +93,7 @@ header {
 
 .container_jumbo_img {
     width: 100%;
-    height: 100px;
+    height: 100%;
 }
 
 .game_jumbo {
@@ -112,17 +112,16 @@ img {
 
 .container_playstation {
     width: 100%;
-    height: 150px;
 }
 
 .console {
     width: 100%;
-    height: 100%;
+    height: 50%;
 }
 
 .accesories {
     width: 100%;
-    height: 200px;
+    height: 100%;
 }
 
 .img_accesories {
@@ -138,6 +137,10 @@ img {
     margin-bottom: 30px;
     border-radius: 10px;
 }
+
+.my_style {
+    font-size: small;
+}
 /* FINE JUMBOTRON */
 /* MAIN */
 main {
@@ -148,7 +151,7 @@ main {
 /* main top */
 #container_main_top_first {
     width: 100%;
-    min-height: 100%;
+    height: 100%;
     background-size: cover;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
@@ -160,6 +163,7 @@ main {
 
 .container_main_top_second {
     width: 100%;
+    height: 100%;
     background-color: darkgray;
 }
 
