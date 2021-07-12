@@ -78,14 +78,9 @@ header {
 }
 /* FINE HEADER */
 /* JUMBOTRON */
-.jumbotron {
-    width: 100%;
-    height: 500px;
-}
-
 #container_jumbo {
     width: 100%;
-    height: 500px;
+    height: 100%;
     background-size: cover;
     background-image: url(../img/jumbo-bg.png);
 }
@@ -145,6 +140,7 @@ img {
 .my_style {
     font-size: small;
 }
+
 /* FINE JUMBOTRON */
 /* MAIN */
 main {
