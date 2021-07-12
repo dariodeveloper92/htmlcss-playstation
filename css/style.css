@@ -94,6 +94,11 @@ header {
 .col-md-12 .search_nav {
     display: none;
 }
+
+.col-lg-12 .btn-secondary,
+.col-lg-12 .search_nav {
+    display: inline-block;
+}
 /* FINE HEADER */
 /* JUMBOTRON */
 .jumbo_banner {
