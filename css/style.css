@@ -129,6 +129,7 @@ header {
     position: absolute;
     bottom: 20%;
     left: 2%;
+    max-width: 60%;
 }
 
 .first_red {
@@ -246,6 +247,7 @@ main {
     position: absolute;
     top: 55%;
     left: 2%;
+    max-width: 60%;
 }
 .second_red {
     position: absolute;
